@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/MyCodes/libsgp4/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

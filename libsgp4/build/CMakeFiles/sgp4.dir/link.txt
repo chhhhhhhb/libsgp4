@@ -1,0 +1,2 @@
+D:\mingW\mingw64\bin\ar.exe qc E:\MyCodes\libsgp4\lib\libsgp4.a CMakeFiles/sgp4.dir/src/Eci.cpp.obj CMakeFiles/sgp4.dir/src/OrbitalElements.cpp.obj CMakeFiles/sgp4.dir/src/SGP4.cpp.obj CMakeFiles/sgp4.dir/src/Tle.cpp.obj CMakeFiles/sgp4.dir/src/Util.cpp.obj
+D:\mingW\mingw64\bin\ranlib.exe E:\MyCodes\libsgp4\lib\libsgp4.a

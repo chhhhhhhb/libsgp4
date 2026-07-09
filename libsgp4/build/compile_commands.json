@@ -1,0 +1,62 @@
+[
+{
+  "directory": "E:/MyCodes/libsgp4/build",
+  "command": "D:\\mingW\\mingw64\\bin\\g++.exe  @CMakeFiles\\sgp4.dir\\includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\sgp4.dir\\src\\Eci.cpp.obj -c E:\\MyCodes\\libsgp4\\src\\Eci.cpp",
+  "file": "E:/MyCodes/libsgp4/src/Eci.cpp",
+  "output": "CMakeFiles/sgp4.dir/src/Eci.cpp.obj"
+},
+{
+  "directory": "E:/MyCodes/libsgp4/build",
+  "command": "D:\\mingW\\mingw64\\bin\\g++.exe  @CMakeFiles\\sgp4.dir\\includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\sgp4.dir\\src\\OrbitalElements.cpp.obj -c E:\\MyCodes\\libsgp4\\src\\OrbitalElements.cpp",
+  "file": "E:/MyCodes/libsgp4/src/OrbitalElements.cpp",
+  "output": "CMakeFiles/sgp4.dir/src/OrbitalElements.cpp.obj"
+},
+{
+  "directory": "E:/MyCodes/libsgp4/build",
+  "command": "D:\\mingW\\mingw64\\bin\\g++.exe  @CMakeFiles\\sgp4.dir\\includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\sgp4.dir\\src\\SGP4.cpp.obj -c E:\\MyCodes\\libsgp4\\src\\SGP4.cpp",
+  "file": "E:/MyCodes/libsgp4/src/SGP4.cpp",
+  "output": "CMakeFiles/sgp4.dir/src/SGP4.cpp.obj"
+},
+{
+  "directory": "E:/MyCodes/libsgp4/build",
+  "command": "D:\\mingW\\mingw64\\bin\\g++.exe  @CMakeFiles\\sgp4.dir\\includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\sgp4.dir\\src\\Tle.cpp.obj -c E:\\MyCodes\\libsgp4\\src\\Tle.cpp",
+  "file": "E:/MyCodes/libsgp4/src/Tle.cpp",
+  "output": "CMakeFiles/sgp4.dir/src/Tle.cpp.obj"
+},
+{
+  "directory": "E:/MyCodes/libsgp4/build",
+  "command": "D:\\mingW\\mingw64\\bin\\g++.exe  @CMakeFiles\\sgp4.dir\\includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\sgp4.dir\\src\\Util.cpp.obj -c E:\\MyCodes\\libsgp4\\src\\Util.cpp",
+  "file": "E:/MyCodes/libsgp4/src/Util.cpp",
+  "output": "CMakeFiles/sgp4.dir/src/Util.cpp.obj"
+},
+{
+  "directory": "E:/MyCodes/libsgp4/build",
+  "command": "D:\\mingW\\mingw64\\bin\\g++.exe -Dsgp4s_EXPORTS @CMakeFiles\\sgp4s.dir\\includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\sgp4s.dir\\src\\Eci.cpp.obj -c E:\\MyCodes\\libsgp4\\src\\Eci.cpp",
+  "file": "E:/MyCodes/libsgp4/src/Eci.cpp",
+  "output": "CMakeFiles/sgp4s.dir/src/Eci.cpp.obj"
+},
+{
+  "directory": "E:/MyCodes/libsgp4/build",
+  "command": "D:\\mingW\\mingw64\\bin\\g++.exe -Dsgp4s_EXPORTS @CMakeFiles\\sgp4s.dir\\includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\sgp4s.dir\\src\\OrbitalElements.cpp.obj -c E:\\MyCodes\\libsgp4\\src\\OrbitalElements.cpp",
+  "file": "E:/MyCodes/libsgp4/src/OrbitalElements.cpp",
+  "output": "CMakeFiles/sgp4s.dir/src/OrbitalElements.cpp.obj"
+},
+{
+  "directory": "E:/MyCodes/libsgp4/build",
+  "command": "D:\\mingW\\mingw64\\bin\\g++.exe -Dsgp4s_EXPORTS @CMakeFiles\\sgp4s.dir\\includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\sgp4s.dir\\src\\SGP4.cpp.obj -c E:\\MyCodes\\libsgp4\\src\\SGP4.cpp",
+  "file": "E:/MyCodes/libsgp4/src/SGP4.cpp",
+  "output": "CMakeFiles/sgp4s.dir/src/SGP4.cpp.obj"
+},
+{
+  "directory": "E:/MyCodes/libsgp4/build",
+  "command": "D:\\mingW\\mingw64\\bin\\g++.exe -Dsgp4s_EXPORTS @CMakeFiles\\sgp4s.dir\\includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\sgp4s.dir\\src\\Tle.cpp.obj -c E:\\MyCodes\\libsgp4\\src\\Tle.cpp",
+  "file": "E:/MyCodes/libsgp4/src/Tle.cpp",
+  "output": "CMakeFiles/sgp4s.dir/src/Tle.cpp.obj"
+},
+{
+  "directory": "E:/MyCodes/libsgp4/build",
+  "command": "D:\\mingW\\mingw64\\bin\\g++.exe -Dsgp4s_EXPORTS @CMakeFiles\\sgp4s.dir\\includes_CXX.rsp -g -std=c++17 -o CMakeFiles\\sgp4s.dir\\src\\Util.cpp.obj -c E:\\MyCodes\\libsgp4\\src\\Util.cpp",
+  "file": "E:/MyCodes/libsgp4/src/Util.cpp",
+  "output": "CMakeFiles/sgp4s.dir/src/Util.cpp.obj"
+}
+]

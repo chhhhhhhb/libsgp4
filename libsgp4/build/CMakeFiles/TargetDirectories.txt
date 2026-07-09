@@ -1,0 +1,8 @@
+E:/MyCodes/libsgp4/build/CMakeFiles/sgp4.dir
+E:/MyCodes/libsgp4/build/CMakeFiles/sgp4s.dir
+E:/MyCodes/libsgp4/build/CMakeFiles/edit_cache.dir
+E:/MyCodes/libsgp4/build/CMakeFiles/rebuild_cache.dir
+E:/MyCodes/libsgp4/build/CMakeFiles/list_install_components.dir
+E:/MyCodes/libsgp4/build/CMakeFiles/install.dir
+E:/MyCodes/libsgp4/build/CMakeFiles/install/local.dir
+E:/MyCodes/libsgp4/build/CMakeFiles/install/strip.dir
