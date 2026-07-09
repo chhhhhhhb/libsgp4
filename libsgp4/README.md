@@ -47,6 +47,22 @@ The SGP4 model is the standard for propagating satellite orbits from TLE data. T
 - **Comprehensive test suite** covering all orbit regimes
 - **C++17** with no mandatory external dependencies
 
+## Cross-Platform
+
+`libsgp4` is written in **pure ISO C++17** — no platform-specific APIs, no third-party dependencies beyond the C++ standard library, and no conditional compilation. It compiles and runs identically on all major platforms without source changes.
+
+| Platform | Compiler | Status |
+|----------|----------|--------|
+| **Linux** (x86-64) | GCC 8+, Clang 7+ | Supported |
+| **macOS** | Clang (Apple) | Supported |
+| **Windows** | MinGW-w64 (GCC), Visual Studio 2019+ (MSVC) | Supported |
+
+```bash
+cmake -B build                         # Linux, macOS, Windows/MSVC
+cmake -B build -G "MinGW Makefiles"     # Windows/MinGW
+cmake --build build
+```
+
 ---
 
 ## Quick Start
